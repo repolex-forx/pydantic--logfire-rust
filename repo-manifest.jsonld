@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pydantic/logfire-rust/commit/804eca47b0c9668a91c68325f5e3ebf6a3700be6",
       "git:hexsha": "804eca47b0c9668a91c68325f5e3ebf6a3700be6",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/pydantic/logfire-rust/commit/dfc9a3eca6e41a08053d82028142911b638111ec",
