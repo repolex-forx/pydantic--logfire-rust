@@ -1,0 +1,11 @@
+{
+  "org": "pydantic",
+  "repo": "logfire-rust",
+  "versions": [
+    {
+      "commit": "804eca47b0c9668a91c68325f5e3ebf6a3700be6",
+      "tag": "",
+      "parsed_at": "2026-10-11T19:48:30.387918+00:00"
+    }
+  ]
+}
